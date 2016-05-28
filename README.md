@@ -1,0 +1,2 @@
+# infoPanel
+information panel
